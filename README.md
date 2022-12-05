@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**box1t/box1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me:**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 My interests are connected with Software Development and Data Science;
+- 📝 I’m studying at Applied Maths faculty of Moscow Aviation Institute;
+- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) Right now I’m learning C programming language;
+- 💼 See my [Curriculum Vitae](https://github.com/box1t) to get more info.
+
+
+<a href="https://github.com/box1t">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=box1t&layout=compact" />
+</a>
+
+<a href="https://github.com/box1t">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=box1t" />
+</a>
+
+![snake svg](https://github.com/box1t/box1t/blob/main/files/a_snake_mistake.svg)
