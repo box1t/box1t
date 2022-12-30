@@ -16,5 +16,3 @@
 <a href="https://github.com/box1t">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=box1t" />
 </a>
-
-![snake svg](https://github.com/box1t/box1t/blob/main/files/a_snake_mistake.svg)
