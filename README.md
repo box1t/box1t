@@ -12,7 +12,3 @@
 <a href="https://github.com/box1t">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=box1t&layout=compact" />
 </a>
-
-<a href="https://github.com/box1t">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=box1t" />
-</a>
